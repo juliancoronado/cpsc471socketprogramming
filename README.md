@@ -9,8 +9,8 @@ Language: Python (2.7)
 Run sample code by being in the "sendfile/" directory
 
 In one terminal window, run
->> python sendfilecli.py
+> python sendfileserv.py
 
 In another terminal window, run
->> python sendfileserv.py file.txt
+> python sendfilecli.py file.txt
 
