@@ -1,7 +1,7 @@
 # CPSC-471 Socket Programming
 
 1. Julian Coronado juliancoronado@csu.fullerton.edu
-2.
+2. Matthew Garcia matthewjgarcia@csu.fullerton.edu
 3.
 
 Language: Python (2.7)
